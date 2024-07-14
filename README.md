@@ -1,6 +1,6 @@
 # -SQL-_Optimal-and-In-Demand-Skills-for-Data-Analysts-Top-Paying-Positions-by-Company-and-Highest-Salaries in the U.S. (2023)
 #Introduction
-This project delved into the dynamic world of data analyst roles, uncovering the highest-paying positions by company and salary trends across the U.S. for 2024.
+This project delved into the dynamic world of data analyst roles, uncovering the highest-paying positions by company and salary trends across the U.S. for 2023.
 It also explored the essential skills in demand to thrive as a data analyst in today's competitive landscape.
 
 # Tools Used 
