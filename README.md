@@ -16,7 +16,7 @@ In my thorough exploration of the data analyst job market, I utilized a range of
 ### 1. Top Paying Data Analyst Jobs
 To identify the highest-paying roles, I filtered data analyst positions based on average yearly salary and location. This query underscores the lucrative opportunities in the field.
 
-,,,sql
+```sql
 SELECT
     job_id,
     job_title,
@@ -35,7 +35,7 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 30
-,,,
+```
 
 ### 2. Top-Paying Skills in Use
 In this query, I focused on identifying the skills utilized by those earning high salaries as identified in the first query.
