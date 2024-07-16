@@ -6,11 +6,12 @@ It also explored the essential skills in demand to thrive as a data analyst in t
 # Tools Used 
 In my thorough exploration of the data analyst job market, I utilized a range of essential tools:
 
--**SQL: The foundation of my analysis, enabling database querying and uncovering crucial insights. This process also involved database cleaning using SQL language.
--**PostgreSQL: The selected database management system, well-suited for managing job posting data.
--**Visual Studio Code: Used for database management and executing SQL queries. 
--**Git & GitHub: Essential for version control and sharing my SQL scripts and analyses, ensuring collaboration and project tracking. 
--**Tableau: Leveraged as my visualization tool to present data with clarity, using graphs, bars, and packed bubbles for easy comprehension.
+- SQL: The foundation of my analysis, enabling database querying and uncovering crucial insights. This process also involved database cleaning using SQL language.
+- PostgreSQL: The selected database management system, well-suited for managing job posting data.
+- Visual Studio Code: Used for database management and executing SQL queries.
+- Git & GitHub: Essential for version control and sharing my SQL scripts and analyses, ensuring collaboration and project tracking.
+- Tableau: Leveraged as my visualization tool to present data with clarity, using graphs, bars, and packed bubbles for easy comprehension.
+
 
 # The Analysis
 ### 1. Top Paying Data Analyst Jobs
